@@ -1,1 +1,2 @@
-Coba ini pertama kali bikin commit sebagai kolaborator
+Coba ini pertama kali bikin commit sebagai kolaborator.
+Selanjutnya bikin commit baru.
