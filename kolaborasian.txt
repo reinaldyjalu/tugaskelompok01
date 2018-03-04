@@ -1,2 +1,7 @@
 Coba ini pertama kali bikin commit sebagai kolaborator.
 Selanjutnya bikin commit baru.
+
+Anggota Kelompok:
+Freddy Setiawan
+Permadi Satya
+Reinadly Jalu Nusantara
